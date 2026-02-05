@@ -193,10 +193,11 @@ body {
  {
     background-color: var(--card-bg); 
   border-radius: 20px;
-  padding: 23px;
+  padding: 15px;
   box-shadow: 0 12px 28px rgba(0,0,0,0.10);
   transition: transform 0.3s, box-shadow 0.3s;
   outline: 1px solid #4f46e5;
+  text-align: center;
 
 }
 
