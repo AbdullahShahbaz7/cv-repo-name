@@ -8,7 +8,7 @@ A responsive personal CV / portfolio website.
 - CSS
 
 ## Live Website
-https://your-vercel-link.vercel.app
+https://cv-repo-name.vercel.app/
 
 ## Author
 Abdullah Shahbaz  
